@@ -1,0 +1,18 @@
+Apple podría bloquear aplicaciones que no cumplan nuevas normas de privacidad
+
+La medida reemplazaría a los componentes de Qualcomm, según informó el principal ejecutivo de chips de la compañía
+
+Apple comenzó a construir su propio módem celular para dispositivos futuros, una medida que reemplazaría los componentes de Qualcomm Inc., dijo el jueves el principal ejecutivo de chips de 
+ al personal.
+Johny Srouji, vicepresidente senior de tecnologías de hardware de Apple, hizo la revelación en una reunión pública con los empleados de 
+, según personas familiarizadas con los comentarios. Las acciones de Qualcomm el pasado viernes cayeron un 4,4% a las 9:37 am en Nueva York.
+“Este año, iniciamos el desarrollo de nuestro primer módem celular interno que permitirá otra transición estratégica clave”, dijo. "Las inversiones estratégicas a largo plazo como estas son una parte fundamental para habilitar nuestros productos y asegurarnos de que tengamos una amplia gama de tecnologías innovadoras para nuestro futuro".
+Un módem celular es una de las partes más importantes de un teléfono inteligente, ya que permite realizar llamadas telefónicas y conectarse a Internet a través de redes celulares.
+Srouji dijo que la adquisición por mil millones de dólares del negocio de módems de Intel Corp.en 2019 ayudó a Apple a formar un equipo de ingenieros de hardware y software para desarrollar su propio módem celular. Dijo que el módem es uno de los pocos chips inalámbricos que diseña la compañía, incluida la serie W en el Apple Watch y el chip de banda ultra ancha U1 en el iPhone para obtener información de ubicación precisa.
+Los últimos iPhones con 5G usan partes de Qualcomm. Antes de eso, Apple usó partes de Intel durante algunos años y luego compró esa unidad de negocios al fabricante de chips.
+Srouji no dijo cuándo el módem celular estaría listo para enviarse en productos, pero un acuerdo de patente de 2019 entre Apple y Qualcomm incluye un pacto de licencia de seis años. Qualcomm cobra tarifas de licencia a los fabricantes de teléfonos en función de las patentes inalámbricas que posee, independientemente de si usan sus chips o no.
+En la reunión con los empleados, Srouji también destacó otros trabajos de Apple en chips, incluidos los nuevos procesadores M1 en los últimos MacBook Air, MacBook Pro y Mac mini. Apple está trabajando en una "familia" de chips Mac, dijo Srouji. Apple está planeando actualizaciones que están diseñadas para mejorar los chips de computadora más rápidos de Intel, informó Bloomberg News a principios de esta semana.
+Apple ha estado contratando ingenieros de Qualcomm durante años para ayudarlo a construir el módem, y tiene oficinas enfocadas en el esfuerzo en San Diego, en su sede de Cupertino, California y en Europa.
+La medida extiende el impulso de Apple hacia una mayor dependencia de sus propias partes a expensas de Qualcomm, Intel y otros. Qualcomm obtiene aproximadamente el 11% de sus ingresos de Apple, mientras que Intel obtiene aproximadamente el 7% de las ventas del fabricante del iPhone, según datos compilados por Bloomberg.
+Apple comenzó a enviar sus propios chips en 2010 con el procesador principal A4 en el iPhone 4 y el iPad original. Desde entonces, Apple ha ampliado este trabajo a procesadores de cámara personalizados, chips para manejar tareas de inteligencia artificial y recopilar datos de movimiento, junto con chips para Apple Watches, Apple TV y auriculares.
+Los procesadores Mac son algunos de los diseños de chips más ambiciosos de Apple hasta la fecha. El desarrollo del módem celular también es un desafío.

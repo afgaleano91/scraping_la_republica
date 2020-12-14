@@ -1,0 +1,4 @@
+Links = //h2[@style]/a/@href
+Titulo = //*[@id="vue-container"]/div[3]/div[1]/div[2]/div[1]/h2/a/text()
+Resumen = //div[@class="lead"]/p/text()
+Cuerpo = //div[@class="html-content"]/p/text()
